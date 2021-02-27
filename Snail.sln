@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snail", "Snail\Snail.csproj", "{899E4AB8-C814-4F36-B881-0176BC6A8052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snail Test", "Snail Test\Snail Test.csproj", "{91BECB07-B06A-446C-8E4F-B1E7BCCA19FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{899E4AB8-C814-4F36-B881-0176BC6A8052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899E4AB8-C814-4F36-B881-0176BC6A8052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899E4AB8-C814-4F36-B881-0176BC6A8052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899E4AB8-C814-4F36-B881-0176BC6A8052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BECB07-B06A-446C-8E4F-B1E7BCCA19FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BECB07-B06A-446C-8E4F-B1E7BCCA19FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BECB07-B06A-446C-8E4F-B1E7BCCA19FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BECB07-B06A-446C-8E4F-B1E7BCCA19FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C276D6ED-2CB0-46C2-BF13-7DE19FFB60AA}
+	EndGlobalSection
+EndGlobal
